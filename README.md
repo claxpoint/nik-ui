@@ -4,7 +4,7 @@ NikUi: A Real FilterBreaker for FilterFucker!
 - Our Projects:
 > xConfig: Free AIO Config Grab System
 
-> gpanel (Golafzani-Panel & NikUi)
+> gpanel (Golafzani-Panel & NikUi): GUI ServerLess Trojan Panel
 
 > And More ;)
 
